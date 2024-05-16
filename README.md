@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/__georgeriley" target="blank"><img src="https://img.shields.io/twitter/follow/__georgeriley?logo=twitter&style=for-the-badge" alt="__georgeriley" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **C# and ASP.NET Core**
 
 - 💬 Ask me about **React**
 
