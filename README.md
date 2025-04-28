@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm George </h1>
-<h3 align="center">A forward thinking Computer Engineer and Software Developer.</h3>
+<h3 align="center">I build cool sh*t.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sansteelo17&label=Profile%20views&color=0e75b6&style=flat" alt="sansteelo17" /> </p>
 
 <p align="left"> <a href="https://twitter.com/__georgeriley" target="blank"><img src="https://img.shields.io/twitter/follow/__georgeriley?logo=twitter&style=for-the-badge" alt="__georgeriley" /></a> </p>
 
-- 🌱 I’m currently learning **C#, ASP.NET Core. Advanced Artificial Intelligence & Robotics**
+- 🌱 I’m currently learning **Artificial Intelligence & Robotics**
 
 - 💬 Ask me about **React**
 
